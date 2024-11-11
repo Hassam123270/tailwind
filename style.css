@@ -1,0 +1,16 @@
+@tailwind base;
+
+@tailwind components;
+@tailwind utilities;
+    
+
+
+.btn{ @apply
+   
+     flex items-center space-x-2 hover:text-yellow-400 hover:bg-gray-600  ml-10 p-2;
+
+}
+
+         
+
+
